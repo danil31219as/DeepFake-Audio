@@ -1,7 +1,7 @@
 # DeepFake-Audio
 
-##Was validated on APTLY lab's dataset 
-###http://www.eecs.yorku.ca/~bil/Datasets/for-rerec.tar.gz
+Was validated on APTLY lab's dataset 
+http://www.eecs.yorku.ca/~bil/Datasets/for-rerec.tar.gz
 | model              | file                               | pretrained  |  Metric |
 | -------------------|:----------------------------------:| -----------:| -------:|
 | Audio VGG16        | audio_vgg_classifier.ipynb         | False       | 0.9713  |
